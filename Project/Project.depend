@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604869537 source:c:\users\alex\desktop\apps\facultate\python\project\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+
