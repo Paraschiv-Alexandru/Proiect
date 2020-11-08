@@ -23,7 +23,7 @@ Functionalitate clas:
     -Se pot compara atributele masinilor
     -Se pot copia masinile
     -Masinile pot fi renovate daca sunt destule fonduri
-
+    -Se pot schimba caracteristicile masinilor(nume,culoare,kilometraj)
 4)Clasa Baie:
     -Folosita pentru a renova baia
     -Baia poate fi renovata daca sunt destule fonduri ramase
