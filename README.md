@@ -6,7 +6,7 @@ Companie renovare case
 Functionalitate clas:
 
 1)Clasa Account:
-    -In clasa Account se depoziteaza fonduri pe achizitionarea actiunilor de renovare
+    -In clasa Account se depoziteaza fonduri pentru achizitionarea actiunilor de renovare
     -Se pot depozita bani , schimbare informatii cont(nume,tranzactii)
     -Se pot deschide mai multe conturi si se pot copia
     -Detine istoricul tuturor tranzactiilor(Tip de tranzactie si pret)
