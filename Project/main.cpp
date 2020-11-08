@@ -52,8 +52,6 @@ public:
             strcpy(nume,c);
         }
         balance=0;
-       // string t{"None"};
-       // actiuni.push_back(t);
         if(strcmp(nume,"None")!=0)cout<<"Cont "<<nume<<" deschis"<<endl;
     }
     Account(){
