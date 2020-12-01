@@ -27,6 +27,13 @@ Functionalitate clas:
 4)Clasa Baie:
     -Folosita pentru a renova baia
     -Baia poate fi renovata daca sunt destule fonduri ramase
-
+Etapa 2(Project 2.0)
+5)Clasa Renovare
+    -Folosita pentru a renova Baia/Masina
+    -Exemplificat conceptul de Clasa abstracta/Virtualizare/Mostenire(IS A)
+6)Clasa Asigurare
+    -Folosita pentru asigurarea Masinii
+    -Posibilitatea de a adauga fonduri( folosite pentru renovarea masinii ) 
+    -Exemplificat conceptul de interfata/Clasa container(HAS A)
 
 
