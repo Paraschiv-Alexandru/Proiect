@@ -1,0 +1,2 @@
+7
+BMW (masina test),7,Negru,22456,0

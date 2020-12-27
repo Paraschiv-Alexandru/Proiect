@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1606828908 source:c:\users\alex\desktop\apps\facultate\python\project\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+
+1609098870 source:c:\users\alex\desktop\apps\facultate\python\project 2.0\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<algorithm>
+	<vector>
+	<set>
+	<list>
+	<map>
+
+1608333732 source:c:\users\aparaschiv\desktop\apps\project 2.0\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+
+1609098870 source:c:\users\alex\desktop\apps\facultate\python\project 3.0\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<algorithm>
+	<vector>
+	<set>
+	<list>
+	<map>
+
