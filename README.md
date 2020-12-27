@@ -35,5 +35,9 @@ Etapa 2(Project 2.0)
     -Folosita pentru asigurarea Masinii
     -Posibilitatea de a adauga fonduri( folosite pentru renovarea masinii ) 
     -Exemplificat conceptul de interfata/Clasa container(HAS A)
-
+Etapa 3(Project 3.0)
+    -Folosirea unui meniu pentru a pune in practica functiile de mai sus
+    -Folosirea fisierelor text pentru a salva/incarca conturi si masini introduse in program
+    -Folosirea containerilor/iteratorilor STL pentru a stoca informatii(vector,set,map,list)
+    -Tratarea exceptiilor
 
